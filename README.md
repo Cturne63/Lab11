@@ -8,7 +8,7 @@ NOTE: navigate to "cd /home/student/web/cgi-bin/setup_all.sh" and change the IP 
 
 Setup the web page by typing "sudo httpd -p 8080".
 
-Open a web page browser and type the FPGA's IP in the Address bar followed by :8080 (type ifconfig to retrieve this information). 
+Open a web page browser and type the FPGA's IP in the Address bar followed by :8080 (type ifconfig in the linux terminal to retrieve this information). 
 
 EX: 192.168.1.47:8080
 
